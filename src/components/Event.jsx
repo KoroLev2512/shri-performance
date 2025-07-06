@@ -1,6 +1,5 @@
 import {memo, useEffect, useRef} from "react";
 
-
 export const Event = memo((props) => {
   const ref = useRef();
 
