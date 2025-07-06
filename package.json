@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KoroLev2512/shri2025-task-performance.git"
+    "url": "git+https://github.com/KoroLev2512/shri-performance.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://korolev2512.github.io/shri2025-task-performance/issues"
+    "url": "https://korolev2512.github.io/shri-performance/issues"
   },
-  "homepage": "https://korolev2512.github.io/shri2025-task-performance/",
+  "homepage": "https://korolev2512.github.io/shri-performance/",
   "devDependencies": {
     "@vitejs/plugin-react": "^4.6.0",
     "gh-pages": "^6.3.0",
