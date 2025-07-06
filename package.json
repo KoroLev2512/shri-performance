@@ -10,16 +10,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JmihPajiloy/shri-performance-homeworlk.git"
+    "url": "git+https://github.com/KoroLev2512/shri2025-task-performance.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JmihPajiloy/shri-performance-homeworlk/issues"
+    "url": "https://korolev2512.github.io/shri2025-task-performance/issues"
   },
-  "homepage": "https://github.com/JmihPajiloy/shri-performance-homeworlk#readme",
+  "homepage": "https://korolev2512.github.io/shri2025-task-performance/",
   "devDependencies": {
     "@vitejs/plugin-react": "^4.6.0",
+    "gh-pages": "^6.3.0",
     "vite": "^6.3.5"
   },
   "dependencies": {
@@ -27,4 +28,3 @@
     "react-dom": "^19.1.0"
   }
 }
-
